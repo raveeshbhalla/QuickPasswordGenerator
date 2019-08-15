@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quick Password Generator</string>
+    <string name="tile_label">Generate Password</string>
+    <string name="settings">Settings</string>
+    <string name="generate_password">Generate password</string>
+    <string name="lowercase">Lowercase</string>
+    <string name="uppercase">Uppercase</string>
+    <string name="digits">Digits</string>
+    <string name="special">Special</string>
+</resources>
